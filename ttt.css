@@ -1,0 +1,71 @@
+/* http://paletton.com/#uid=10x0u0ku0T+8QWukYTvTsMzSeoX */
+
+body {
+  background-color:#FF8310;
+  color:#5B2C00;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+#startnote, #continue {
+  width:400px;
+  height:300px;
+  position:absolute;
+  left: 50%;
+  margin-left: -200px;
+  background-color:#FFA858;
+  text-align:center;
+  z-index:10;
+  margin-top:30px;
+  border-radius:100px;
+}
+
+h1 {
+  font-family: 'Just Me Again Down Here', cursive;
+  color:#C75F00;
+  font-size:300%;
+  margin:10px;
+}
+
+table {
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:30px;
+}
+
+td {
+  width:150px;
+  height:150px;
+  border:0px;
+  background-color:#FFA858;
+  text-align:center;
+  cursor:pointer;
+  font-family: 'Just Me Again Down Here', cursive;
+  color:#C75F00;
+  font-size:500%;
+}
+
+
+button {
+  display:inline;
+  background-color:#FFDAB9;
+  border:0px;
+  font-size:250%;
+  width:70px;
+  height:70px;
+  margin:0px 20px;
+  color:#C75F00;
+  cursor:pointer;
+  font-family: 'Just Me Again Down Here', cursive;
+}
+
+.toss {
+  margin:70px 20px 20px 20px
+}
+
+#go {
+  width:100px;
+}
+
+.hidden {
+  display:none;
+}
